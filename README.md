@@ -1,6 +1,6 @@
-# Team-12
 
-## MEDIPOOL
+
+# MEDIPOOL
 
 A platform, which is motivated by the fundamental demand-supply rule of economics, serves various domains of healthcare while dealing with complicated challenges. Like increasing accessibility of healthcare to the general populace, helping tier 2 and tier 3 hospitals to acquire necessary equipment, and providing a service for the whole city to help in diagnosis.
 
